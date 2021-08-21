@@ -14,16 +14,13 @@ Django - 8000
 ## Django endpoints
 
 
-## Vue urls
-
-
 ## Contact
 
 Vinsmoke Mau – [@vinsmokemau](https://twitter.com/vinsmokemau) – mauricio.munguia@makingmex.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/vinsmokemau/TrueHomeTest](https://github.com/vinsmokemau/TrueHomeTest)
+[https://github.com/vinsmokemau/PlantLovers](https://github.com/vinsmokemau/PlantLovers)
 
 ## Contributing
 
