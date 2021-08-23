@@ -130,7 +130,6 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [],
-        'APP_DIRS': 'templates',
         'OPTIONS': {
             'debug': DEBUG,
             'loaders': [
