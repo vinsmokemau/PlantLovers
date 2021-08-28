@@ -72,9 +72,14 @@ THIRD_PARTY_APPS = [
     'corsheaders',
 ]
 
-LOCAL_APPS = []
+LOCAL_APPS = [
+    'apps.users',
+]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
+
+# User
+AUTH_USER_MODEL = 'users.User'
 
 # Passwords
 PASSWORD_HASHERS = [
